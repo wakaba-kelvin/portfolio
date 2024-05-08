@@ -1089,7 +1089,7 @@ export default function Home({ publications }) {
                 imgHeight={"666"}
                 imgSrc={"/projects/profileme.png"}
                 liveLink={"https://profileme.dev"}
-                repoLink={"https://github.com/danielcranney/profileme.dev"}
+                repoLink={"https://github.com/wakaba-kelvin/profileme-dev-main"}
                 stack={
                   <>
                     <Icon
